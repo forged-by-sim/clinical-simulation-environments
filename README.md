@@ -1,1 +1,0 @@
-# clinical-simulation-environments
