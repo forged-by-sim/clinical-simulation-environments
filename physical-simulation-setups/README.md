@@ -12,7 +12,7 @@ Includes:
 - ICU and transport simulations  
 - Anesthesia and monitoring configurations  
 - Emergency BVM and rescue stretcher scenarios
-- Emergency response logistics for aircraft fuselage crash zone for extration setup
+- Emergency response logistics for aircraft fuselage crash zone for extraction setup
 
 Each image is captioned and organized to reflect real operations experience in medical simulation labs.
 
