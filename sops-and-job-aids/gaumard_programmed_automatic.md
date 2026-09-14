@@ -18,7 +18,7 @@ Scenario
 
 - Search for "PALS 2B" Palette (The palette that you created)
 
-- Set time - "2 mind"
+- Set time - "2 mins"
 
 - Add
 

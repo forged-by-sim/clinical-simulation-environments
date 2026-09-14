@@ -1,6 +1,12 @@
 clinical-simulation-environments/
-├── physical-environments/
+├── LICENSE
+├── README_directory.md
+├── physical-simulation-setups/
 │   ├── emergency_transport_sim_backboard_bvm.jpg
+│   ├── full-scale-mci-fuselage-impact-zone.jpg
+│   ├── mci-exercise-fuselage-flatbed-loading.png
+│   ├── mci-exercise-fuselage-flatbed-wide.png
+│   ├── mci-exercise-heavy-rescue-crane-setup.png
 │   ├── or_setup_intubated_manikin_blue_drape.jpg
 │   ├── sim_hospital_room_oxygen_mask_uhealth.png
 │   ├── sim_room_anesthesia_machine_full_setup.jpg
@@ -8,8 +14,14 @@ clinical-simulation-environments/
 │   ├── tracheotomy_sim_closeup_forceps.png
 │   └── tracheotomy_sim_manikin_draped_setup.png
 │
+├── sops-and-job-aids/
+│   ├── gaumard_programmed_automatic.md
+│   ├── gaumard_programmed_automatic-expanded.md
+│   └── gaumard_programmed_automatic-original_field_notes.pdf
+│
 └── xr-simulation-setups/
     ├── README_directory.txt
+    ├── air-ambulance-360.gif
     ├── ambulance-360.gif
     ├── ar_dino_rhomaleosaurus.gif
     ├── firetruck-360.gif

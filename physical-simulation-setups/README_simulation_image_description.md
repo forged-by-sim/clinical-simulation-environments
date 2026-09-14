@@ -53,3 +53,35 @@ emergency_transport_sim_backboard_bvm.jpg
 
 📝Caption:
 Emergency transport training: manikin secured on backboard with airway support via BVM. Emergency transport simulation featuring a manikin secured in a red backboard stretcher while airway support is administered using a bag-valve mask (BVM).
+
+
+
+✅Filename:
+full-scale-mci-fuselage-impact-zone.jpg
+
+📝Caption:
+Close-up ground view of the high-fidelity impact zone and active extrication setup.
+
+
+
+✅Filename:
+mci-exercise-fuselage-flatbed-loading.png
+
+📝Caption:
+Focused view on the heavy rescue rig, crane rigging, and aircraft fuselage transport.
+
+
+
+✅Filename:
+mci-exercise-fuselage-flatbed-wide.png
+
+📝Caption:
+Comprehensive wide-angle shot showing the entire staged perimeter (overturned bus + flatbed transport).
+
+
+
+✅Filename:
+mci-exercise-heavy-rescue-crane-setup.png
+
+📝Caption:
+Operational setup shot showcasing the heavy crane, traffic safety staging, and multi-agency logistics.
