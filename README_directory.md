@@ -15,8 +15,8 @@ clinical-simulation-environments/
 │   └── tracheotomy_sim_manikin_draped_setup.png
 │
 ├── sops-and-job-aids/
-│   ├── brayden_cpr_manikin_features_ref.pdf
-│   ├── brayden_cpr_manikin_features_reference.md
+│   ├── big_red_brayden_cpr_manikin_features_ref.pdf
+│   ├── big_red_brayden_cpr_manikin_features_reference.md
 │   ├── guamard_programmed_automatic.md
 │   ├── gaumard_programmed_automatic-expanded.md
 │   └── gaumard_programmed_automatic-original_field_notes.pdf

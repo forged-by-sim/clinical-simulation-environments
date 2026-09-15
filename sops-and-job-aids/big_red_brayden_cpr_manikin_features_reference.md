@@ -1,0 +1,1 @@
+Reference material scanned from Big Red Brayden CPR Manikin user manual for quick-reference instructor orientation. 

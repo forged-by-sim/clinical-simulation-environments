@@ -1,1 +1,0 @@
-Reference material scanned from Brayden CPR Manikin user manual for quick-reference instructor orientation. 
