@@ -27,6 +27,10 @@ clinical-simulation-environments/
     ├── ambulance-360.gif
     ├── ar_dino_rhomaleosaurus.gif
     ├── firetruck-360.gif
+    ├── helipad-base-360.gif
+    ├── helipad-base-after-rain-360.gif
+    ├── helipad-hopital-360.gif
+    ├── helipad-hospital-after-rain-360.gif
     ├── medical-warzone-military-transport-helicopter-360.gif
     ├── rescue-360.gif
     ├── search-and-rescue-helicopter-360.gif
