@@ -23,15 +23,16 @@ clinical-simulation-environments/
 │
 └── xr-simulation-setups/
     ├── README_directory.txt
-    ├── air-ambulance-360.gif
-    ├── ambulance-360.gif
+    ├── air_ambulance_360.gif
+    ├── ambulance_360.gif
     ├── ar_dino_rhomaleosaurus.gif
-    ├── firetruck-360.gif
-    ├── helipad-base-360.gif
-    ├── helipad-base-after-rain-360.gif
-    ├── helipad-hopital-360.gif
-    ├── helipad-hospital-after-rain-360.gif
-    ├── medical-warzone-military-transport-helicopter-360.gif
-    ├── rescue-360.gif
-    ├── search-and-rescue-helicopter-360.gif
+    ├── firetruck_360.gif
+    ├── helipad_base_360.gif
+    ├── helipad_base_after_rain_360.gif
+    ├── helipad_hopital_360.gif
+    ├── helipad_hospital_after_rain_360.gif
+    ├── medical_warzone_military_transport_helicopter_360.gif
+    ├── rescue_360.gif
+    ├── sar_helicopter_prototype_360.gif
+    ├── search_and_rescue_helicopter_360.gif
     └── vr_aframe_rhomaleosaurus.gif
